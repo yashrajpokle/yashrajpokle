@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashrajpokle" target="blank"><img src="https://img.shields.io/twitter/follow/yashrajpokle?logo=twitter&style=for-the-badge" alt="yashrajpokle" /></a> </p>
 
-- 🌱 I’m currently learning **K.J Somaiya College Of Engineering**
+- 🌱 I’m currently learning **K.J Lomaiya College Of Engineering**
 
 - 💬 Ask me about **Tech Update , Android , Project , Research**
 

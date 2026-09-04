@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **yashrajpokle@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGTC3R72AM/0q8I7DcduUgQZBrQGT17PA/edit?utm_content=DAGTC3R72AM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGTC3R72AM/0q8I7DcduUgQZBrQGT17PA/edit?utm_content=DAGTC3R72AM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **I Always Learn New Technical Skills**
 

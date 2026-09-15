@@ -1,63 +1,78 @@
-# Hi, I'm Yashraj 👋
-
-3rd-year Computer Engineering student at KJ Somaiya School of Engineering, Mumbai. I'm working toward backend/software engineering, with a growing interest in databases, system design, and applied ML.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashraj-pokle-00a4112b2)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yashrajpokle@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/yashrajpokle/)
-
----
-
-### About me
-
-I'm currently focused on backend development — building comfort with Python and Java, working with REST APIs, and getting more deliberate about databases and system design. Alongside that, I'm picking up applied ML basics (NumPy, Pandas) as a side interest, not a primary track.
-
-I haven't shipped a portfolio project yet — that's the current priority, and this README will get an update once there's something worth showing.
-
----
-
-### Tech Stack
-
-**Languages**
-`C` `C++` `Java` `Python` `JavaScript`
-
-**Backend**
-`Django` `Flask` `REST APIs`
-
-**Databases**
-`PostgreSQL` `MongoDB` `SQLite`
-
-**Frontend**
-`React` `HTML/CSS`
-
-**Tools**
-`Git` `GitHub`
-
-**AI / Data (learning)**
-`NumPy` `Pandas`
-
----
-
-### Leadership & Community
-
-- **Google Student Ambassador** — *Ongoing*
-- **Creative Head, Maths Council** — KJ Somaiya School of Engineering · *Ongoing*
-
----
-
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yashrajpokle&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajpokle&layout=compact&hide_border=true" height="165"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yashraj%20Pokle&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Software%20Engineering%20%7C%20CS%20%272028&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajpokle&hide_border=true" height="165"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=3rd+Year+Computer+Engineering+Student;KJ+Somaiya+School+of+Engineering;Backend+%7C+Databases+%7C+System+Design;Exploring+AI%2FML+on+the+side" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashraj-pokle-00a4112b2">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yashrajpokle@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/yashrajpokle/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/yashrajpokle">
+    <img src="https://komarev.com/ghpvc/?username=yashrajpokle&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+---
+
+## 👋 About Me
+
+I'm currently focused on backend development — building comfort with Python and Java, working with REST APIs, and getting more deliberate about databases and system design. Alongside that, I'm picking up applied ML basics (NumPy, Pandas) as a side interest.
+
+I haven't shipped a portfolio project yet — that's the current priority, and this profile will get an update once there's something worth showing.
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,html,css,django,flask,postgres,mongodb,sqlite,git,github&theme=dark&perline=8" />
+</p>
+
+<br/>
+
+## 🌱 Leadership & Community
+
+<table align="center">
+  <tr>
+    <td align="center">🌐<br/><b>Google Student Ambassador</b><br/><sub>Ongoing</sub></td>
+    <td align="center">🎨<br/><b>Creative Head, Maths Council</b><br/><sub>KJ Somaiya School of Engineering · Ongoing</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashrajpokle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajpokle&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajpokle&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajpokle&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashrajpokle&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-### Connect
-
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yashraj-pokle-00a4112b2) or [email](mailto:yashrajpokle@gmail.com).
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</p>

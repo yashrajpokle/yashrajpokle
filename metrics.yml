@@ -1,0 +1,26 @@
+name: Update Profile Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs daily at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: "header, activity, community, repositories, metadata"
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Kolkata

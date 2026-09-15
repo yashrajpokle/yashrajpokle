@@ -1,78 +1,157 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yashraj%20Pokle&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Software%20Engineering%20%7C%20CS%20%272028&descAlignY=55&descSize=18" width="100%"/>
-</p>
+# Hi, I'm Yash 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=3rd+Year+Computer+Engineering+Student;KJ+Somaiya+School+of+Engineering;Backend+%7C+Databases+%7C+System+Design;Exploring+AI%2FML+on+the+side" alt="Typing SVG" />
-</p>
+### Engineering Student | Software Engineering | Backend | Cloud | AI
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yashraj-pokle-00a4112b2">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yashrajpokle@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/yashrajpokle/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://github.com/yashrajpokle">
-    <img src="https://komarev.com/ghpvc/?username=yashrajpokle&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
-  </a>
-</p>
+I'm an engineering student at **KJ Somaiya College of Engineering**, working toward becoming a strong **Software Engineer** with a focus on backend development, cloud technologies, and practical applications of AI.
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+Currently, I'm building my software engineering fundamentals through projects, problem solving, and hands-on development while exploring how backend systems, cloud infrastructure, and AI can work together.
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL) · [Email](YOUR_EMAIL)
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm currently focused on backend development — building comfort with Python and Java, working with REST APIs, and getting more deliberate about databases and system design. Alongside that, I'm picking up applied ML basics (NumPy, Pandas) as a side interest.
+* 🎓 Engineering student at **KJ Somaiya College of Engineering**
+* 💻 Interested in **Software Engineering and Backend Development**
+* ☁️ Exploring **Cloud and DevOps**
+* 🤖 Interested in integrating **AI/ML with software applications**
+* 📊 Studying **Data Science** as part of my academic journey
+* 🛠️ Learning by building projects and working on practical problems
+* 🚀 Working toward a career that combines **Software Engineering, Backend, Cloud, and AI**
 
-I haven't shipped a portfolio project yet — that's the current priority, and this profile will get an update once there's something worth showing.
+---
 
-<br/>
+## 🔭 Currently Focused On
 
-## 🛠️ Tech Stack
+* Strengthening my **software engineering fundamentals**
+* Building and improving **backend development skills**
+* Working on practical engineering projects
+* Exploring **cloud technologies and deployment**
+* Understanding how **AI can be integrated into software systems**
+* Improving problem-solving and programming skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,html,css,django,flask,postgres,mongodb,sqlite,git,github&theme=dark&perline=8" />
-</p>
+---
 
-<br/>
+## 🧰 Technical Skills
 
-## 🌱 Leadership & Community
+### Languages
 
-<table align="center">
-  <tr>
-    <td align="center">🌐<br/><b>Google Student Ambassador</b><br/><sub>Ongoing</sub></td>
-    <td align="center">🎨<br/><b>Creative Head, Maths Council</b><br/><sub>KJ Somaiya School of Engineering · Ongoing</sub></td>
-  </tr>
-</table>
+`C++` · `Python`
 
-<br/>
+### Software Engineering
 
-## 📊 GitHub Stats
+`Backend Development` · `REST APIs` · `Git` · `GitHub`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashrajpokle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajpokle&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
-</p>
+### Data & AI
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajpokle&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
+`Data Science` · `AI / ML`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajpokle&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
+### Cloud & DevOps
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashrajpokle&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+`Cloud Technologies` · `DevOps`
+
+> My skill set is continuously evolving as I build more projects and gain hands-on experience.
+
+---
+
+## 🚀 Featured Projects
+
+### SkillSphere
+
+A project focused on creating a platform where students can manage their profiles and interact with different platform features based on their roles.
+
+**Focus:** Software Engineering · Backend · Role-based functionality
+
+**Status:** Ongoing
+
+[Repository](YOUR_SKILLSPHERE_REPOSITORY_URL)
+
+---
+
+### More Projects
+
+I'm continuously working on academic and personal projects across software engineering, data, and AI.
+
+> Projects will be added here as they become substantial enough to showcase.
+
+---
+
+## 💼 Leadership & Community
+
+### Google Student Ambassador
+
+Representing the Google Student Ambassador community while developing technical, communication, and community-building experience.
+
+---
+
+### Creative Head — Emfinity
+
+**Emfinity — Maths Council, KJ Somaiya College of Engineering**
+
+Working as Creative Head and contributing to the creative and technical presentation of the council's activities and initiatives.
+
+---
+
+## 🏆 Achievements & Activities
+
+* Google Student Ambassador
+* Creative Head at Emfinity, KJ Somaiya College of Engineering
+* Active involvement in technical and college projects
+
+---
+
+## 🧩 What I'm Interested In
+
+```text
+Software Engineering
+        ↓
+Backend Development
+        ↓
+APIs + Databases
+        ↓
+Cloud & DevOps
+        ↓
+AI Integration
+```
+
+I'm particularly interested in understanding the complete journey from building a software application to deploying and integrating intelligent capabilities into it.
+
+---
+
+## 💻 Coding & Developer Profiles
+
+* **GitHub:** [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+* **LeetCode:** [Profile](YOUR_LEETCODE_URL)
+* **LinkedIn:** [Profile](YOUR_LINKEDIN_URL)
+
+---
+
+## 📊 GitHub Activity
+
+<!--
+Add GitHub statistics only after confirming your username.
+
+Example:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
+-->
+
+I prefer keeping this section focused on useful activity rather than filling the profile with multiple statistic cards.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with other students, developers, engineers, and people building interesting things.
+
+**GitHub:** [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+**LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+**Email:** [YOUR_EMAIL]
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <i>Building, learning, and getting better one project at a time.</i>
 </p>
